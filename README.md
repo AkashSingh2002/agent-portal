@@ -82,5 +82,3 @@ A simple web application that allows agents to log in and access a chat interfac
 - JWT token authentication
 - Input validation
 - SQL injection protection
-
-This is a simple, interview-friendly application that demonstrates basic web development concepts without complex dependencies or advanced features.
