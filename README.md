@@ -14,7 +14,6 @@ A simple web application that allows agents to log in and access a chat interfac
 
 ### Login Page
 ![Logo](client/public/Screenshot (359).png)
-*Secure login interface with test account credentials*
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
