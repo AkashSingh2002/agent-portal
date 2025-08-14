@@ -13,7 +13,7 @@ A simple web application that allows agents to log in and access a chat interfac
 ## 📸 Screenshots
 
 ### Login Page
-client/public/Screenshot (359).png
+![Logo](client/public/Screenshot (359).png)
 *Secure login interface with test account credentials*
 
 ### Dashboard
