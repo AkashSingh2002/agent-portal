@@ -10,6 +10,24 @@ A simple web application that allows agents to log in and access a chat interfac
 - **Customer Orders**: Search for customer order information
 - **Database**: SQLite with sample data
 
+## 📸 Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+*Secure login interface with test account credentials*
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+*Main dashboard with sidebar navigation and chat interface*
+
+### Chat Interface
+![Chat Interface](screenshots/chat.png)
+*AI assistant chat with sample payroll query*
+
+### Profile View
+![Profile](screenshots/profile.png)
+*User profile information and account details*
+
 ## Technology Stack
 
 **Backend:**
@@ -82,3 +100,4 @@ A simple web application that allows agents to log in and access a chat interfac
 - JWT token authentication
 - Input validation
 - SQL injection protection
+
