@@ -17,7 +17,7 @@ A simple web application that allows agents to log in and access a chat interfac
 *Secure login interface with test account credentials*
 
 ### Dashboard
-![Logo](client/public/Screenshot-361.png)
+![Logo](client/public/Screenshot-363.png)
 *Main dashboard with sidebar navigation and chat interface*
 
 ### Chat Interface
@@ -25,7 +25,7 @@ A simple web application that allows agents to log in and access a chat interfac
 *AI assistant chat with sample payroll query*
 
 ### Profile View
-![Logo](client/public/Screenshot-363.png)
+![Logo](client/public/Screenshot-361.png)
 *User profile information and account details*
 
 ## Technology Stack
